@@ -1,7 +1,12 @@
 body {
-    background-color: red;
     font-family: 'Courier New', Courier, monospace;
 }
+
+.column {
+    width: 600px;
+    margin:40px auto;
+}
+
 img {
     width:100%;
 }
