@@ -2,6 +2,7 @@ body {
     font-family: 'Courier New', Courier, monospace;
     line-height: 25px;
     background-color: sandybrown;
+    margin: 0;
 }
 
 .column {
@@ -9,6 +10,10 @@ body {
     margin:0px auto;
     background-color: seashell;
     padding: 1px 40px 40px 40px;
+    border-left: solid 25px pink;
+    border-right: solid 25px pink;
+
+}
 }
 
 img {
